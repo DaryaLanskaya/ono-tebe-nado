@@ -7,7 +7,7 @@
 body {
   width: 1100px;
   margin: 0 auto;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', 'Arial', 'Helvetica', sans-serif;
 }
 
 h1,
@@ -25,10 +25,21 @@ blockquote {
   padding: 0;
 }
 
+
+
 a {
   color: inherit;
+  font-size: 18px;
+  text-decoration: none;
 }
 
 img {
   width: 100%;
 }
+
+main {
+  font-weight: 400;
+}
+
+
+
