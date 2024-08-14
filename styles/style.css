@@ -319,6 +319,10 @@ h2 {
   margin-bottom: 24px;
 }
 
+.footer {
+  margin-bottom: 88px;
+}
+
 .footer__content {
   display: flex;
   justify-content: space-between;
