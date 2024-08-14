@@ -185,7 +185,7 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin: 0 -15px 30px;
+    margin: 0 -15px 5px;
 }
 
 .lots__card-list-item {
